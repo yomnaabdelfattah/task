@@ -3,7 +3,7 @@
 
 }
 .container{
-        background-image: url('../img/bgHero.jpg');
+        background-image: url('bgHero.jpg');
         background-size: cover;
         background-position: center;
         height: 590px;
